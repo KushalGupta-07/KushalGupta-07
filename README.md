@@ -12,6 +12,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=KushalGupta-07&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KushalGupta-07&theme=dark&hide_border=true)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KushalGupta-07&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://api.githubtrends.io/user/svg/KushalGupta-07/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark">
+
 
 ### Top Contributed Repo 🔝 
 ![](https://github-contributor-stats.vercel.app/api?username=KushalGupta-07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
