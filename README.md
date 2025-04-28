@@ -1,4 +1,4 @@
-# About Me <img src="https://media4.giphy.com/media/jp9L4PnlTa0y9PdVR0/giphy.gif" width="75">
+# About Me <img src="https://media3.giphy.com/media/oxiR5eDjoRuuGjK7lz/giphy.gif" width="40">
  🔭 **I’m currently working on:** <br>Improve my programming skill in Java.<br><br>👯 **I’m looking to collaborate on:**  <br>Java Based Project<br><br>🌱 **I’m currently learning:**  <br>J2EE (Java 2 Enterprise Edition)<br><br>
 👨‍💻 **My Technical skills:**<br>Java|Python|C++|C|Html<br><br>⚡ *Fun fact:* <br>.
 
