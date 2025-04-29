@@ -1,4 +1,4 @@
-# About Me <img src="https://giphy.com/stickers/flower-stars-kirana-kMAsQuuEeQIwm4eSVJ" width="40">
+# About Me <img src="https://i.giphy.com/kMAsQuuEeQIwm4eSVJ.webp" width="40">
  🔭 **I’m currently working on:** <br>Improve my programming skill in Java.<br><br>👯 **I’m looking to collaborate on:**  <br>Java Based Project<br><br>🌱 **I’m currently learning:**  <br>J2EE (Java 2 Enterprise Edition)<br><br>
 👨‍💻 **My Technical skills:**<br>Java|Python|C++|C|Html<br><br>⚡ *Fun fact:* <br>.
 
