@@ -1,5 +1,5 @@
 # About Me <img src="https://i.giphy.com/kMAsQuuEeQIwm4eSVJ.webp" width="40">
- 🔭 **I’m currently working on:** <br>Improve my programming skill in Java.<br><br>👯 **I’m looking to collaborate on:**  <br>Java Based Project<br><br>🌱 **I’m currently learning:**  <br>J2EE (Java 2 Enterprise Edition)<br><br>
+ <img src="<img src="https://i.giphy.com/kMAsQuuEeQIwm4eSVJ.webp" width="20">" width="40"> **I’m currently working on:** <br>Improve my programming skill in Java.<br><br>👯 **I’m looking to collaborate on:**  <br>Java Based Project<br><br>🌱 **I’m currently learning:**  <br>J2EE (Java 2 Enterprise Edition)<br><br>
 👨‍💻 **My Technical skills:**<br>Java|Python|C++|C|Html<br><br>⚡*Fun fact:* <br>.
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">  Socials 
