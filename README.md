@@ -21,6 +21,9 @@
 <p align="center"><img src="https://profile-counter.glitch.me/KushalGupta-07/count.svg" alt="visitor badge"/></p>
 
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="kushalgupta07" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/kushalgupta07?trk=profile-badge">Kushal Gupta</a></div>
+
+
 
 
 
