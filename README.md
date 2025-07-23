@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=KushalGupta-07&style=for-the-badge&color=red)
+
 # About Me <img src="https://i.giphy.com/kMAsQuuEeQIwm4eSVJ.webp" width="40">
  <img src="https://media4.giphy.com/media/QwmQEDjwKBd9CEBMNq/giphy.gif" width="27"> **I’m currently working on:** <br>Improve my programming skill in Java.<br><br><img src="https://media0.giphy.com/media/xaIqLlBSsnvADoohHO/giphy.gif" width="20"> **I’m looking to collaborate on:**  <br>Java Based Project<br><br><img src="https://media4.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif" width="20"> **I’m currently learning:**  <br>J2EE (Java 2 Enterprise Edition)<br><br>
 <img src="https://media4.giphy.com/media/6fw5Ttw1mOnNoECh7X/giphy.gif" width="20">  **My Technical skills:**<br>Java|Python|C++|C|Html<br><br><img src="https://media2.giphy.com/media/3ohc19SFUdIJ0YQcLe/giphy.gif" width="20">*Fun fact:* <br>.
@@ -17,10 +19,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KushalGupta-07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+<!--
 <p align="center"><b>Profile Visitors</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/KushalGupta-07/count.svg" alt="visitor badge"/></p>
-
-![](https://komarev.com/ghpvc/?username=KushalGupta-07&style=for-the-badge&color=red)
+-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
