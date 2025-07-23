@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&descAlignY=37&fontAlignY=40&fontAlign=50&textBg=false&animation=blink&descAlign=72&descSize=50&desc=-%20Kushal%20Gupta&fontSize=70)
 
-![](https://komarev.com/ghpvc/?username=KushalGupta-07&style=for-the-badge&color=gradient)
+![](https://komarev.com/ghpvc/?username=KushalGupta-07&style=for-the-badge&color=orange)
 
 # About Me <img src="https://i.giphy.com/kMAsQuuEeQIwm4eSVJ.webp" width="40">
  <img src="https://media4.giphy.com/media/QwmQEDjwKBd9CEBMNq/giphy.gif" width="27"> **I’m currently working on:** <br>Improve my programming skill in Java.<br><br><img src="https://media0.giphy.com/media/xaIqLlBSsnvADoohHO/giphy.gif" width="20"> **I’m looking to collaborate on:**  <br>Java Based Project<br><br><img src="https://media4.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif" width="20"> **I’m currently learning:**  <br>J2EE (Java 2 Enterprise Edition)<br><br>
