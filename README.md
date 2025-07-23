@@ -20,6 +20,8 @@
 <p align="center"><b>Profile Visitors</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/KushalGupta-07/count.svg" alt="visitor badge"/></p>
 
+![](https://komarev.com/ghpvc/?username=KushalGupta-07&style=for-the-badge&color=red)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
