@@ -1,4 +1,4 @@
-https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&descAlignY=37&fontAlignY=40&fontAlign=50&textBg=false&animation=blink&descAlign=72&descSize=50&desc=-%20Kushal%20Gupta&fontSize=70
+![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&descAlignY=37&fontAlignY=40&fontAlign=50&textBg=false&animation=blink&descAlign=72&descSize=50&desc=-%20Kushal%20Gupta&fontSize=70)
 
 ![](https://komarev.com/ghpvc/?username=KushalGupta-07&style=for-the-badge&color=red)
 
