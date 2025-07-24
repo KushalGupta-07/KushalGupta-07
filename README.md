@@ -3,8 +3,12 @@
 ![](https://komarev.com/ghpvc/?username=KushalGupta-07&style=for-the-badge&color=orange)
 
 # About Me <img src="https://i.giphy.com/kMAsQuuEeQIwm4eSVJ.webp" width="40">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Diploma+Graduate+in+Computer+Engineering;Open+Source+Enthusiast;Always+Learning+New+Things&font=Fira%20Code¢er=true&width=380&height=50)
+
  <img src="https://media4.giphy.com/media/QwmQEDjwKBd9CEBMNq/giphy.gif" width="27"> **I’m currently working on:** <br>Improve my programming skill in Java.<br><br><img src="https://media0.giphy.com/media/xaIqLlBSsnvADoohHO/giphy.gif" width="20"> **I’m looking to collaborate on:**  <br>Java Based Project<br><br><img src="https://media4.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif" width="20"> **I’m currently learning:**  <br>J2EE (Java 2 Enterprise Edition)<br><br>
 <img src="https://media4.giphy.com/media/6fw5Ttw1mOnNoECh7X/giphy.gif" width="20">  **My Technical skills:**<br>Java|Python|C++|C|Html<br><br><img src="https://media2.giphy.com/media/3ohc19SFUdIJ0YQcLe/giphy.gif" width="20">*Fun fact:* <br>.
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">  Socials 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushalgupta07) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KushalGupta-07) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](#) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/guptakushal277)
@@ -18,13 +22,18 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KushalGupta-07&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
 
-### 🔝 Top Contributed Repo
+### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlwNWdxbW1sMGRvanFmcWpmOWJjcnVyZmIxY29hcG9maTVuZ245eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KDc4s7Lvyo9kxGz8AJ/giphy.gif" width="40" height="40"> Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KushalGupta-07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!--
 <p align="center"><b>Profile Visitors</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/KushalGupta-07/count.svg" alt="visitor badge"/></p>
 -->
+
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFmdTFnNjl0c2w0cWZ5YjJwYWh1dHA0dmc3cTA4czc5d253cHJhciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VJqdhPQrcYaOehpik4/giphy.gif" width="40"> Daily Quote
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!--![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KushalGupta-07&repo=KushalGupta-07)-->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer"/>
