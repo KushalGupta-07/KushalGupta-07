@@ -9,6 +9,47 @@
  <img src="https://media4.giphy.com/media/QwmQEDjwKBd9CEBMNq/giphy.gif" width="27"> **I’m currently working on:** <br>Improve my programming skill in Java.<br><br><img src="https://media0.giphy.com/media/xaIqLlBSsnvADoohHO/giphy.gif" width="20"> **I’m looking to collaborate on:**  <br>Java Based Project<br><br><img src="https://media4.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif" width="20"> **I’m currently learning:**  <br>J2EE (Java 2 Enterprise Edition)<br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">  **My Technical skills:**<br>Java|Python|C++|C|Html<br><br>
 
+
+<!--achievement--> 
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDV6dzY0Z21maHowMnFnZzlqcGtuMjlweWVncWpwaGNvOGw3YzRpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/D0jidt0aW8DD2YZkAB/giphy.gif" width="40"> Achievements
+
+<table width="49%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Oracle AI Foundation Associate</strong></h3>
+      <p align="center">
+          <img align="center" src="https://brm-workforce.oracle.com/pdf/certview/images/OCI25AICFAV1.png" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Postman API Fundamentals Student Expert</strong></h3>
+      <p align="center">
+          <img align="center" src="https://api.badgr.io/public/assertions/FWYgjiSBTFqWDULuvZ2Vng/image" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%">
+      <h3 align="center"><strong>Introduction to Cybersecurity</strong></h3>
+      <p align="center">
+          <img align="center"  src="https://images.credly.com/size/340x340/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="30%">
+      <h3 align="center"><strong>Introduction to Data Science</strong></h3>
+      <p align="center">
+          <img align="center" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">  Socials 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushalgupta07) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KushalGupta-07) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushalgupta2777@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/KushalGupta-07/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/guptakushal277)
 
@@ -21,7 +62,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KushalGupta-07&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlwNWdxbW1sMGRvanFmcWpmOWJjcnVyZmIxY29hcG9maTVuZ245eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KDc4s7Lvyo9kxGz8AJ/giphy.gif" width="40" height="40"> Top Contributed Repo
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlwNWdxbW1sMGRvanFmcWpmOWJjcnVyZmIxY29hcG9maTVuZ245eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KDc4s7Lvyo9kxGz8AJ/giphy.gif" width="40" height="40"> Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KushalGupta-07&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true)
 
 <!--
