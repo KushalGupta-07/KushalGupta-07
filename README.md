@@ -11,6 +11,7 @@
 
 
 <!--achievement--> 
+<!--
 ## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDV6dzY0Z21maHowMnFnZzlqcGtuMjlweWVncWpwaGNvOGw3YzRpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/D0jidt0aW8DD2YZkAB/giphy.gif" width="40"> Achievements
 
 <table width="49%">
@@ -48,7 +49,7 @@
   </tr>
 </table>
 <br />
-
+-->
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">  Socials 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kushalgupta07) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KushalGupta-07) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushalgupta2777@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/KushalGupta-07/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/guptakushal277)
