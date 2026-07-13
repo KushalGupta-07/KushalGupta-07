@@ -64,7 +64,7 @@
 
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlwNWdxbW1sMGRvanFmcWpmOWJjcnVyZmIxY29hcG9maTVuZ245eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KDc4s7Lvyo9kxGz8AJ/giphy.gif" width="40" height="40"> Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KushalGupta-07&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true)
+![Repos created by KushalGupta-07](https://github-contrib-stats.vercel.app/KushalGupta-07/created.svg)
 
 <!--
 <p align="center"><b>Profile Visitors</b></p>
